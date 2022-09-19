@@ -9,5 +9,9 @@
  
   
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcosta010&show_icons=true&theme=github_dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielcosta010&layout=compact&theme=github_dark)  |
-| ------ | -----|
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=danielcosta010&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcosta010&layout=compact&theme=github_dark" />
+</a>
