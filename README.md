@@ -9,9 +9,9 @@
  
   
 
-<a href="https://danielcosta010.github.io/portfolio/" target="blank">
+<a href="https://danielcosta010.github.io/portfolio/">
   <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=danielcosta010&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://danielcosta010.github.io/portfolio/" target="blank">
+<a href="https://danielcosta010.github.io/portfolio/">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcosta010&layout=compact&theme=github_dark" />
 </a>
