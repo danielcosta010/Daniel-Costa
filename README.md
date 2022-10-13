@@ -4,7 +4,7 @@
 -   Olá, sou desenvolvedor web em desenvolvimento :grin:, trilhando para me tornar um profissional com as skills e boas práticas necessárias.
 -   Atualmente estou estudando na plataforma Alura.
 -   Focado nos estudos das linguagens e ferramentas de desenvolvimento e programação.
--   Aprendendo diariamente<br> 
+-   Aprendendo diariamente.<br> 
  <br>
  <hr>
  
