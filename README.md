@@ -14,11 +14,11 @@
 
 
 <a href="https://danielcosta010.github.io/portfolio/">
-  <img align="center" height="200rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielcosta010&show_icons=true&theme=react&line" />
+  <img align="center" height="150rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielcosta010&show_icons=true&theme=react&line" />
 </a>
 
 <a href="https://danielcosta010.github.io/portfolio/">
-  <img align="center" height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielcosta010&layout=compact&theme=react&line" />
+  <img align="center" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielcosta010&layout=compact&theme=react&line" />
 </a>
 
 
